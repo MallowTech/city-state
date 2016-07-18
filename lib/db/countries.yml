@@ -1,4 +1,12 @@
 ---
+:SA: Saudi Arabia
+:EG: Egypt
+:YE: Yemen
+:PH: Philippines
+:IN: India
+:PK: Pakistan
+:BD: Bangladesh
+:NP: Nepal
 :AD: Andorra
 :AE: United Arab Emirates
 :AF: Afghanistan
@@ -17,7 +25,6 @@
 :AZ: Azerbaijan
 :BA: Bosnia and Herzegovina
 :BB: Barbados
-:BD: Bangladesh
 :BE: Belgium
 :BF: Burkina Faso
 :BG: Bulgaria
@@ -63,7 +70,6 @@
 :DZ: Algeria
 :EC: Ecuador
 :EE: Estonia
-:EG: Egypt
 :ER: Eritrea
 :ES: Spain
 :ET: Ethiopia
@@ -101,7 +107,6 @@
 :IE: Ireland
 :IL: Israel
 :IM: Isle of Man
-:IN: India
 :IO: British Indian Ocean Territory
 :IQ: Iraq
 :IR: Iran
@@ -164,7 +169,6 @@
 :NI: Nicaragua
 :NL: Netherlands
 :NO: Norway
-:NP: Nepal
 :NR: Nauru
 :NU: Niue
 :NZ: New Zealand
@@ -173,8 +177,6 @@
 :PE: Peru
 :PF: French Polynesia
 :PG: Papua New Guinea
-:PH: Philippines
-:PK: Pakistan
 :PL: Poland
 :PM: Saint Pierre and Miquelon
 :PN: Pitcairn Islands
@@ -189,7 +191,6 @@
 :RS: Serbia
 :RU: Russia
 :RW: Rwanda
-:SA: Saudi Arabia
 :SB: Solomon Islands
 :SC: Seychelles
 :SD: Sudan
@@ -242,7 +243,6 @@
 :WF: Wallis and Futuna
 :WS: Samoa
 :XK: Kosovo
-:YE: Yemen
 :YT: Mayotte
 :ZA: South Africa
 :ZM: Zambia
